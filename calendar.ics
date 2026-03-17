@@ -1,0 +1,1468 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=it:Copyright Index-Education - HYPERPLANNING 2026
+METHOD:PUBLISH
+X-CALSTART:20250818T000000Z
+X-CALEND:20260425T000000Z
+X-WR-CALNAME;LANGUAGE=it:HYP - Albertoli Massimo 03.02.1997 (3SL23) - dal 1
+ 8 agosto 2025 al 25 aprile 2026
+X-WR-CALDESC;LANGUAGE=it:Orario di Albertoli Massimo 03.02.1997 generato da
+ l software HP (©INDEX EDUCATION) il 17 mar. 2026 - CPSI-SSSCI Manno-Bellin
+ zona - valido nel periodo dal 18 agosto 2025 al 25 aprile 2026 - Settimane
+  : settimana 34 - 17
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165448Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-2368-16-Albertoli_Massimo-Index-Education
+DTSTART:20251202T072000Z
+DTEND:20251202T105500Z
+SUMMARY;LANGUAGE=it:LS AMB - Cardiologia - CANDIANI\, FLURY - 3SL23 - 16
+LOCATION;LANGUAGE=it:128 sim\, 137 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : LS AMB - Cardiologia\nDocenti : CANDIANI\
+ , FLURY\nCorsi : 3SL23\nAule : 128 sim\, 137\nSede : Manno\nStudenti : 16\
+ n
+X-ALT-DESC;FMTTYPE=text/html:Materia : LS AMB - Cardiologia<br/>Docenti : C
+ ANDIANI\, FLURY<br/>Corsi : 3SL23<br/>Aule : 128 sim\, 137<br/>Sede : Mann
+ o<br/>Studenti : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165448Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-2373-16-Albertoli_Massimo-Index-Education
+DTSTART:20251202T115500Z
+DTEND:20251202T143500Z
+SUMMARY;LANGUAGE=it:LS AMB Approf.Cardiologia - FLURY - 3SL23 - 16
+LOCATION;LANGUAGE=it:137 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : LS AMB Approf.Cardiologia\nDocente : FLUR
+ Y\nCorsi : 3SL23\nAula : 137\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : LS AMB Approf.Cardiologia<br/>Docent
+ e : FLURY<br/>Corsi : 3SL23<br/>Aula : 137<br/>Sede : Manno<br/>Studenti :
+  16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165448Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-2375-16-Albertoli_Massimo-Index-Education
+DTSTART:20251205T072000Z
+DTEND:20251205T105500Z
+SUMMARY;LANGUAGE=it:LS AMB Traumatologia - BIAVA\, FLURY - 3SL23 - 16
+LOCATION;LANGUAGE=it:128 sim - Manno
+DESCRIPTION;LANGUAGE=it:Materia : LS AMB Traumatologia\nDocenti : BIAVA\, F
+ LURY\nCorsi : 3SL23\nAula : 128 sim\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : LS AMB Traumatologia<br/>Docenti : B
+ IAVA\, FLURY<br/>Corsi : 3SL23<br/>Aula : 128 sim<br/>Sede : Manno<br/>Stu
+ denti : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165448Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-2377-35-Albertoli_Massimo-Index-Education
+DTSTART:20260416T062000Z
+DTEND:20260416T090500Z
+SUMMARY;LANGUAGE=it:Accompagnamento e lutto psi - MAETZLER - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Accompagnamento e lutto psi\nDocente : MA
+ ETZLER\nCorsi : 3SL23\nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Accompagnamento e lutto psi<br/>Doce
+ nte : MAETZLER<br/>Corsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Stude
+ nti : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165448Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-2378-35-Albertoli_Massimo-Index-Education
+DTSTART:20260416T090500Z
+DTEND:20260416T123500Z
+SUMMARY;LANGUAGE=it:Accompagnamento e lutto med - CEDENO - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Accompagnamento e lutto med\nDocente : CE
+ DENO\nCorsi : 3SL23\nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Accompagnamento e lutto med<br/>Doce
+ nte : CEDENO<br/>Corsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Student
+ i : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165448Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-2379-35-Albertoli_Massimo-Index-Education
+DTSTART:20260415T071000Z
+DTEND:20260415T095500Z
+SUMMARY;LANGUAGE=it:Accompagnamento e lutto etica - DI BERNARDO - 3SL23 - 1
+ 6
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Accompagnamento e lutto etica\nDocente : 
+ DI BERNARDO\nCorsi : 3SL23\nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Accompagnamento e lutto etica<br/>Do
+ cente : DI BERNARDO<br/>Corsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>
+ Studenti : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165448Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-2384-22-Albertoli_Massimo-Index-Education
+DTSTART:20260113T072000Z
+DTEND:20260113T143500Z
+SUMMARY;LANGUAGE=it:Cure ecoassistite - UCCELLA - 3SL23 - 16
+LOCATION;LANGUAGE=it:137 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Cure ecoassistite\nDocente : UCCELLA\nCor
+ si : 3SL23\nAula : 137\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Cure ecoassistite<br/>Docente : UCCE
+ LLA<br/>Corsi : 3SL23<br/>Aula : 137<br/>Sede : Manno<br/>Studenti : 16<br
+ />
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165448Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-2388-33-Albertoli_Massimo-Index-Education
+DTSTART:20260331T071000Z
+DTEND:20260331T133500Z
+SUMMARY;LANGUAGE=it:Gestione materiale - BIGI - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Gestione materiale\nDocente : BIGI\nCorsi
+  : 3SL23\nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Gestione materiale<br/>Docente : BIG
+ I<br/>Corsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Studenti : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165448Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-2389-33-Albertoli_Massimo-Index-Education
+DTSTART:20260401T105500Z
+DTEND:20260401T133500Z
+SUMMARY;LANGUAGE=it:Tecniche di guida - JAM - 3SL23 - 16
+DESCRIPTION;LANGUAGE=it:Materia : Tecniche di guida\nDocente : JAM\nCorsi :
+  3SL23\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Tecniche di guida<br/>Docente : JAM<
+ br/>Corsi : 3SL23<br/>Studenti : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165448Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-2392-18-Albertoli_Massimo-Index-Education
+DTSTART:20251215T115500Z
+DTEND:20251215T143500Z
+SUMMARY;LANGUAGE=it:PED AMD - ANSELMI - 3SL23 - 16
+LOCATION;LANGUAGE=it:137 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : PED AMD\nDocente : ANSELMI\nCorsi : 3SL23
+ \nAula : 137\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : PED AMD<br/>Docente : ANSELMI<br/>Co
+ rsi : 3SL23<br/>Aula : 137<br/>Sede : Manno<br/>Studenti : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165448Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-2393-17-Albertoli_Massimo-Index-Education
+DTSTART:20251209T115500Z
+DTEND:20251209T152500Z
+SUMMARY;LANGUAGE=it:PED Anatomia - GENINI - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : PED Anatomia\nDocente : GENINI\nCorsi : 3
+ SL23\nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : PED Anatomia<br/>Docente : GENINI<br
+ />Corsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Studenti : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165448Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-2396-18-Albertoli_Massimo-Index-Education
+DTSTART:20251215T072000Z
+DTEND:20251215T105500Z
+SUMMARY;LANGUAGE=it:PED Concetto PALS - ANSELMI - 3SL23 - 16
+LOCATION;LANGUAGE=it:137 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : PED Concetto PALS\nDocente : ANSELMI\nCor
+ si : 3SL23\nAula : 137\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : PED Concetto PALS<br/>Docente : ANSE
+ LMI<br/>Corsi : 3SL23<br/>Aula : 137<br/>Sede : Manno<br/>Studenti : 16<br
+ />
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165448Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-2397-17-Albertoli_Massimo-Index-Education
+DTSTART:20251210T115500Z
+DTEND:20251210T152500Z
+SUMMARY;LANGUAGE=it:PED Fisiopatologia - GENINI - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : PED Fisiopatologia\nDocente : GENINI\nCor
+ si : 3SL23\nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : PED Fisiopatologia<br/>Docente : GEN
+ INI<br/>Corsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Studenti : 16<br
+ />
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165448Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-2399-17-Albertoli_Massimo-Index-Education
+DTSTART:20251211T072000Z
+DTEND:20251211T105500Z
+SUMMARY;LANGUAGE=it:PED Tecniche specifiche - DOMENICONI - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : PED Tecniche specifiche\nDocente : DOMENI
+ CONI\nCorsi : 3SL23\nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : PED Tecniche specifiche<br/>Docente 
+ : DOMENICONI<br/>Corsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Student
+ i : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165448Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-2400-35-Albertoli_Massimo-Index-Education
+DTSTART:20260413T062000Z
+DTEND:20260413T133500Z
+SUMMARY;LANGUAGE=it:REGA - 3SL23 - 16
+DESCRIPTION;LANGUAGE=it:Materia : REGA\nCorsi : 3SL23\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : REGA<br/>Corsi : 3SL23<br/>Studenti 
+ : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165448Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-2403-18-Albertoli_Massimo-Index-Education
+DTSTART:20251217T115500Z
+DTEND:20251217T152500Z
+SUMMARY;LANGUAGE=it:REA Neonatale - DOMENICONI - 3SL23 - 16
+LOCATION;LANGUAGE=it:128 sim - Manno
+DESCRIPTION;LANGUAGE=it:Materia : REA Neonatale\nDocente : DOMENICONI\nCors
+ i : 3SL23\nAula : 128 sim\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : REA Neonatale<br/>Docente : DOMENICO
+ NI<br/>Corsi : 3SL23<br/>Aula : 128 sim<br/>Sede : Manno<br/>Studenti : 16
+ <br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T112457Z
+UID:Attivita-2871-21-Albertoli_Massimo-Index-Education
+DTSTART:20260109T072000Z
+DTEND:20260109T105500Z
+SUMMARY;LANGUAGE=it:Analisi di situazione PED - DOMENICONI - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Analisi di situazione PED\nDocente : DOME
+ NICONI\nCorsi : 3SL23\nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Analisi di situazione PED<br/>Docent
+ e : DOMENICONI<br/>Corsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Stude
+ nti : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T112457Z
+UID:Attivita-2872-17-Albertoli_Massimo-Index-Education
+DTSTART:20251212T072000Z
+DTEND:20251212T105500Z
+SUMMARY;LANGUAGE=it:Analisi di situazione PED - DOMENICONI - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Analisi di situazione PED\nDocente : DOME
+ NICONI\nCorsi : 3SL23\nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Analisi di situazione PED<br/>Docent
+ e : DOMENICONI<br/>Corsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Stude
+ nti : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T112457Z
+UID:Attivita-2880-17-Albertoli_Massimo-Index-Education
+DTSTART:20251211T115500Z
+DTEND:20251211T143500Z
+SUMMARY;LANGUAGE=it:Teoria sintesi - CITRINITI - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Teoria sintesi\nDocente : CITRINITI\nCors
+ i : 3SL23\nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Teoria sintesi<br/>Docente : CITRINI
+ TI<br/>Corsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Studenti : 16<br/
+ >
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T112457Z
+UID:Attivita-2884-32-Albertoli_Massimo-Index-Education
+DTSTART:20260327T081000Z
+DTEND:20260327T143500Z
+SUMMARY;LANGUAGE=it:Cura condizione fisica - BIANCHI - 3SL23 - 16
+DESCRIPTION;LANGUAGE=it:Materia : Cura condizione fisica\nDocente : BIANCHI
+ \nCorsi : 3SL23\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Cura condizione fisica<br/>Docente :
+  BIANCHI<br/>Corsi : 3SL23<br/>Studenti : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-5995-18-Albertoli_Massimo-Index-Education
+DTSTART:20251216T115500Z
+DTEND:20251216T152500Z
+SUMMARY;LANGUAGE=it:Analisi di situazione - FLURY - 3SL23 - 16
+LOCATION;LANGUAGE=it:137 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Analisi di situazione\nDocente : FLURY\nC
+ orsi : 3SL23\nAula : 137\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Analisi di situazione<br/>Docente : 
+ FLURY<br/>Corsi : 3SL23<br/>Aula : 137<br/>Sede : Manno<br/>Studenti : 16<
+ br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T112457Z
+UID:Attivita-11187-32-Albertoli_Massimo-Index-Education
+DTSTART:20260324T072000Z
+DTEND:20260324T143500Z
+SUMMARY;LANGUAGE=it:Interdisciplinarietà - ZIELLA - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Interdisciplinarietà\nDocente : ZIELLA\nC
+ orsi : 3SL23\nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Interdisciplinarietà<br/>Docente : Z
+ IELLA<br/>Corsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Studenti : 16<
+ br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260303T145518Z
+UID:Attivita-11890-11-Albertoli_Massimo-Index-Education
+DTSTART:20251027T072000Z
+DTEND:20251027T143500Z
+SUMMARY;LANGUAGE=it:Esame cclinico/orale/sim PQF - BIAVA\, CITRINITI\, FLUR
+ Y - 3SL23 - 16
+LOCATION;LANGUAGE=it:128 sim\, 132 BLS - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Esame cclinico/orale/sim PQF\nDocenti : B
+ IAVA\, CITRINITI\, FLURY\nCorsi : 3SL23\nAule : 128 sim\, 132 BLS\nSede : 
+ Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Esame cclinico/orale/sim PQF<br/>Doc
+ enti : BIAVA\, CITRINITI\, FLURY<br/>Corsi : 3SL23<br/>Aule : 128 sim\, 13
+ 2 BLS<br/>Sede : Manno<br/>Studenti : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14008-3-Albertoli_Massimo-Index-Education
+DTSTART:20250901T071000Z
+DTEND:20250901T133500Z
+SUMMARY;LANGUAGE=it:Progetto professionale - BIAVA - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Progetto professionale\nDocente : BIAVA\n
+ Corsi : 3SL23\nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Progetto professionale<br/>Docente :
+  BIAVA<br/>Corsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Studenti : 16
+ <br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14013-17-Albertoli_Massimo-Index-Education
+DTSTART:20251209T072000Z
+DTEND:20251209T105500Z
+SUMMARY;LANGUAGE=it:Progetto professionale - BIAVA - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Progetto professionale\nDocente : BIAVA\n
+ Corsi : 3SL23\nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Progetto professionale<br/>Docente :
+  BIAVA<br/>Corsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Studenti : 16
+ <br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14014-21-Albertoli_Massimo-Index-Education
+DTSTART:20260107T115500Z
+DTEND:20260107T143500Z
+SUMMARY;LANGUAGE=it:Analisi di situazione - BIAVA - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Analisi di situazione\nDocente : BIAVA\nC
+ orsi : 3SL23\nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Analisi di situazione<br/>Docente : 
+ BIAVA<br/>Corsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Studenti : 16<
+ br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14018-22-Albertoli_Massimo-Index-Education
+DTSTART:20260114T115500Z
+DTEND:20260114T143500Z
+SUMMARY;LANGUAGE=it:Farmacologia refresh - FRATTINI - 3SL23 - 16
+LOCATION;LANGUAGE=it:137 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Farmacologia refresh\nDocente : FRATTINI\
+ nCorsi : 3SL23\nAula : 137\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Farmacologia refresh<br/>Docente : F
+ RATTINI<br/>Corsi : 3SL23<br/>Aula : 137<br/>Sede : Manno<br/>Studenti : 1
+ 6<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14021-16-Albertoli_Massimo-Index-Education
+DTSTART:20251203T072000Z
+DTEND:20251203T105500Z
+SUMMARY;LANGUAGE=it:LS AMB Metabolico - CANDIANI\, FLURY - 3SL23 - 16
+LOCATION;LANGUAGE=it:128 sim\, 132 BLS\, 137 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : LS AMB Metabolico\nDocenti : CANDIANI\, F
+ LURY\nCorsi : 3SL23\nAule : 128 sim\, 132 BLS\, 137\nSede : Manno\nStudent
+ i : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : LS AMB Metabolico<br/>Docenti : CAND
+ IANI\, FLURY<br/>Corsi : 3SL23<br/>Aule : 128 sim\, 132 BLS\, 137<br/>Sede
+  : Manno<br/>Studenti : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14022-16-Albertoli_Massimo-Index-Education
+DTSTART:20251204T072000Z
+DTEND:20251204T105500Z
+SUMMARY;LANGUAGE=it:LS AMB Neurologia - BIAVA\, VERDI - 3SL23 - 16
+LOCATION;LANGUAGE=it:128 sim - Manno
+DESCRIPTION;LANGUAGE=it:Materia : LS AMB Neurologia\nDocenti : BIAVA\, VERD
+ I\nCorsi : 3SL23\nAula : 128 sim\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : LS AMB Neurologia<br/>Docenti : BIAV
+ A\, VERDI<br/>Corsi : 3SL23<br/>Aula : 128 sim<br/>Sede : Manno<br/>Studen
+ ti : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14023-16-Albertoli_Massimo-Index-Education
+DTSTART:20251201T072000Z
+DTEND:20251201T105500Z
+SUMMARY;LANGUAGE=it:LS AMB Respiratorio - BIAVA\, SOMMARUGA - 3SL23 - 16
+LOCATION;LANGUAGE=it:129 sim - Manno
+DESCRIPTION;LANGUAGE=it:Materia : LS AMB Respiratorio\nDocenti : BIAVA\, SO
+ MMARUGA\nCorsi : 3SL23\nAula : 129 sim\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : LS AMB Respiratorio<br/>Docenti : BI
+ AVA\, SOMMARUGA<br/>Corsi : 3SL23<br/>Aula : 129 sim<br/>Sede : Manno<br/>
+ Studenti : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14024-16-Albertoli_Massimo-Index-Education
+DTSTART:20251201T115500Z
+DTEND:20251201T143500Z
+SUMMARY;LANGUAGE=it:LS AMB .Approf. Respiratorio - FLURY - 3SL23 - 16
+LOCATION;LANGUAGE=it:137 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : LS AMB .Approf. Respiratorio\nDocente : F
+ LURY\nCorsi : 3SL23\nAula : 137\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : LS AMB .Approf. Respiratorio<br/>Doc
+ ente : FLURY<br/>Corsi : 3SL23<br/>Aula : 137<br/>Sede : Manno<br/>Student
+ i : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14025-16-Albertoli_Massimo-Index-Education
+DTSTART:20251203T115500Z
+DTEND:20251203T143500Z
+SUMMARY;LANGUAGE=it:LS AMB Approf.Metabolico - FLURY - 3SL23 - 16
+LOCATION;LANGUAGE=it:137 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : LS AMB Approf.Metabolico\nDocente : FLURY
+ \nCorsi : 3SL23\nAula : 137\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : LS AMB Approf.Metabolico<br/>Docente
+  : FLURY<br/>Corsi : 3SL23<br/>Aula : 137<br/>Sede : Manno<br/>Studenti : 
+ 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14026-35-Albertoli_Massimo-Index-Education
+DTSTART:20260414T071000Z
+DTEND:20260414T133500Z
+SUMMARY;LANGUAGE=it:Accompagnamento e lutto - FLURY - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Accompagnamento e lutto\nDocente : FLURY\
+ nCorsi : 3SL23\nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Accompagnamento e lutto<br/>Docente 
+ : FLURY<br/>Corsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Studenti : 1
+ 6<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14027-35-Albertoli_Massimo-Index-Education
+DTSTART:20260417T062000Z
+DTEND:20260417T095500Z
+SUMMARY;LANGUAGE=it:AMD Ripasso generale - FLURY - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : AMD Ripasso generale\nDocente : FLURY\nCo
+ rsi : 3SL23\nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : AMD Ripasso generale<br/>Docente : F
+ LURY<br/>Corsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Studenti : 16<b
+ r/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14028-35-Albertoli_Massimo-Index-Education
+DTSTART:20260415T105500Z
+DTEND:20260415T133500Z
+SUMMARY;LANGUAGE=it:Antropologia e Lutto - CARONI - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Antropologia e Lutto\nDocente : CARONI\nC
+ orsi : 3SL23\nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Antropologia e Lutto<br/>Docente : C
+ ARONI<br/>Corsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Studenti : 16<
+ br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14029-32-Albertoli_Massimo-Index-Education
+DTSTART:20260326T081000Z
+DTEND:20260326T105500Z
+SUMMARY;LANGUAGE=it:Care Team - MAETZLER - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Care Team\nDocente : MAETZLER\nCorsi : 3S
+ L23\nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Care Team<br/>Docente : MAETZLER<br/
+ >Corsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Studenti : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14034-18-Albertoli_Massimo-Index-Education
+DTSTART:20251218T072000Z
+DTEND:20251218T143500Z
+SUMMARY;LANGUAGE=it:PED REA Pediatrica - BIAVA\, DOMENICONI - 3SL23 - 16
+LOCATION;LANGUAGE=it:128 sim - Manno
+DESCRIPTION;LANGUAGE=it:Materia : PED REA Pediatrica\nDocenti : BIAVA\, DOM
+ ENICONI\nCorsi : 3SL23\nAula : 128 sim\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : PED REA Pediatrica<br/>Docenti : BIA
+ VA\, DOMENICONI<br/>Corsi : 3SL23<br/>Aula : 128 sim<br/>Sede : Manno<br/>
+ Studenti : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14035-33-Albertoli_Massimo-Index-Education
+DTSTART:20260401T062000Z
+DTEND:20260401T095500Z
+SUMMARY;LANGUAGE=it:Principi di radiologia 1 - BARRO - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Principi di radiologia 1\nDocente : BARRO
+ \nCorsi : 3SL23\nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Principi di radiologia 1<br/>Docente
+  : BARRO<br/>Corsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Studenti : 
+ 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14038-16-Albertoli_Massimo-Index-Education
+DTSTART:20251205T115500Z
+DTEND:20251205T143500Z
+SUMMARY;LANGUAGE=it:LS AMB .Approf. Traumatologia - FLURY - 3SL23 - 16
+LOCATION;LANGUAGE=it:137 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : LS AMB .Approf. Traumatologia\nDocente : 
+ FLURY\nCorsi : 3SL23\nAula : 137\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : LS AMB .Approf. Traumatologia<br/>Do
+ cente : FLURY<br/>Corsi : 3SL23<br/>Aula : 137<br/>Sede : Manno<br/>Studen
+ ti : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14039-16-Albertoli_Massimo-Index-Education
+DTSTART:20251204T115500Z
+DTEND:20251204T143500Z
+SUMMARY;LANGUAGE=it:Inglese scientifico - VAN DRIEL - 3SL23 - 16
+LOCATION;LANGUAGE=it:137 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Inglese scientifico\nDocente : VAN DRIEL\
+ nCorsi : 3SL23\nAula : 137\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Inglese scientifico<br/>Docente : VA
+ N DRIEL<br/>Corsi : 3SL23<br/>Aula : 137<br/>Sede : Manno<br/>Studenti : 1
+ 6<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T112457Z
+UID:Attivita-14044-3-Albertoli_Massimo-Index-Education
+DTSTART:20250904T062000Z
+DTEND:20250904T095500Z
+SUMMARY;LANGUAGE=it:Metodologia LDD - CATENAZZI - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Metodologia LDD\nDocente : CATENAZZI\nCor
+ si : 3SL23\nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Metodologia LDD<br/>Docente : CATENA
+ ZZI<br/>Corsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Studenti : 16<br
+ />
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T112457Z
+UID:Attivita-14045-3-Albertoli_Massimo-Index-Education
+DTSTART:20250904T105500Z
+DTEND:20250904T142500Z
+SUMMARY;LANGUAGE=it:Metodologia LDD - CATENAZZI - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Metodologia LDD\nDocente : CATENAZZI\nCor
+ si : 3SL23\nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Metodologia LDD<br/>Docente : CATENA
+ ZZI<br/>Corsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Studenti : 16<br
+ />
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260303T150815Z
+UID:Attivita-14046-18-Albertoli_Massimo-Index-Education
+DTSTART:20251217T081000Z
+DTEND:20251217T105500Z
+SUMMARY;LANGUAGE=it:Inglese scientifico - VAN DRIEL - 3SL23 - 16
+LOCATION;LANGUAGE=it:137 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Inglese scientifico\nDocente : VAN DRIEL\
+ nCorsi : 3SL23\nAula : 137\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Inglese scientifico<br/>Docente : VA
+ N DRIEL<br/>Corsi : 3SL23<br/>Aula : 137<br/>Sede : Manno<br/>Studenti : 1
+ 6<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260303T150815Z
+UID:Attivita-14046-21-Albertoli_Massimo-Index-Education
+DTSTART:20260107T081000Z
+DTEND:20260107T105500Z
+SUMMARY;LANGUAGE=it:Inglese scientifico - VAN DRIEL - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Inglese scientifico\nDocente : VAN DRIEL\
+ nCorsi : 3SL23\nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Inglese scientifico<br/>Docente : VA
+ N DRIEL<br/>Corsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Studenti : 1
+ 6<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260303T150815Z
+UID:Attivita-14046-22-Albertoli_Massimo-Index-Education
+DTSTART:20260114T081000Z
+DTEND:20260114T105500Z
+SUMMARY;LANGUAGE=it:Inglese scientifico - VAN DRIEL - 3SL23 - 16
+LOCATION;LANGUAGE=it:137 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Inglese scientifico\nDocente : VAN DRIEL\
+ nCorsi : 3SL23\nAula : 137\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Inglese scientifico<br/>Docente : VA
+ N DRIEL<br/>Corsi : 3SL23<br/>Aula : 137<br/>Sede : Manno<br/>Studenti : 1
+ 6<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260303T150815Z
+UID:Attivita-14047-3-Albertoli_Massimo-Index-Education
+DTSTART:20250903T105500Z
+DTEND:20250903T133500Z
+SUMMARY;LANGUAGE=it:Inglese scientifico - VAN DRIEL - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Inglese scientifico\nDocente : VAN DRIEL\
+ nCorsi : 3SL23\nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Inglese scientifico<br/>Docente : VA
+ N DRIEL<br/>Corsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Studenti : 1
+ 6<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T112457Z
+UID:Attivita-14051-3-Albertoli_Massimo-Index-Education
+DTSTART:20250903T062000Z
+DTEND:20250903T095500Z
+SUMMARY;LANGUAGE=it:Metodologia LDD - BIAVA\, CATENAZZI - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Metodologia LDD\nDocenti : BIAVA\, CATENA
+ ZZI\nCorsi : 3SL23\nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Metodologia LDD<br/>Docenti : BIAVA\
+ , CATENAZZI<br/>Corsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Studenti
+  : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T112457Z
+UID:Attivita-14052-18-Albertoli_Massimo-Index-Education
+DTSTART:20251216T072000Z
+DTEND:20251216T105500Z
+SUMMARY;LANGUAGE=it:Metodologia LDD - CATENAZZI - 3SL23 - 16
+LOCATION;LANGUAGE=it:137 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Metodologia LDD\nDocente : CATENAZZI\nCor
+ si : 3SL23\nAula : 137\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Metodologia LDD<br/>Docente : CATENA
+ ZZI<br/>Corsi : 3SL23<br/>Aula : 137<br/>Sede : Manno<br/>Studenti : 16<br
+ />
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14053-3-Albertoli_Massimo-Index-Education
+DTSTART:20250905T062000Z
+DTEND:20250905T133500Z
+SUMMARY;LANGUAGE=it:Atelier - BIAVA\, FLURY - 3SL23 - 16
+LOCATION;LANGUAGE=it:128 sim - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Atelier\nDocenti : BIAVA\, FLURY\nCorsi :
+  3SL23\nAula : 128 sim\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Atelier<br/>Docenti : BIAVA\, FLURY<
+ br/>Corsi : 3SL23<br/>Aula : 128 sim<br/>Sede : Manno<br/>Studenti : 16<br
+ />
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14054-3-Albertoli_Massimo-Index-Education
+DTSTART:20250902T071000Z
+DTEND:20250902T095500Z
+SUMMARY;LANGUAGE=it:Etica - CITRINITI - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Etica\nDocente : CITRINITI\nCorsi : 3SL23
+ \nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Etica<br/>Docente : CITRINITI<br/>Co
+ rsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Studenti : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T112457Z
+UID:Attivita-14055-31-Albertoli_Massimo-Index-Education
+DTSTART:20260316T115500Z
+DTEND:20260316T143500Z
+SUMMARY;LANGUAGE=it:Gruppi di discussione - BASSANINI - 3SL23 - 16
+LOCATION;LANGUAGE=it:137 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Gruppi di discussione\nDocente : BASSANIN
+ I\nCorsi : 3SL23\nAula : 137\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Gruppi di discussione<br/>Docente : 
+ BASSANINI<br/>Corsi : 3SL23<br/>Aula : 137<br/>Sede : Manno<br/>Studenti :
+  16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T112457Z
+UID:Attivita-14056-3-Albertoli_Massimo-Index-Education
+DTSTART:20250902T105500Z
+DTEND:20250902T133500Z
+SUMMARY;LANGUAGE=it:Gruppi di discussione - BASSANINI - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Gruppi di discussione\nDocente : BASSANIN
+ I\nCorsi : 3SL23\nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Gruppi di discussione<br/>Docente : 
+ BASSANINI<br/>Corsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Studenti :
+  16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T112457Z
+UID:Attivita-14059-17-Albertoli_Massimo-Index-Education
+DTSTART:20251210T072000Z
+DTEND:20251210T105500Z
+SUMMARY;LANGUAGE=it:Metodologia LDD - CATENAZZI - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Metodologia LDD\nDocente : CATENAZZI\nCor
+ si : 3SL23\nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Metodologia LDD<br/>Docente : CATENA
+ ZZI<br/>Corsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Studenti : 16<br
+ />
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T112457Z
+UID:Attivita-14061-18-Albertoli_Massimo-Index-Education
+DTSTART:20251219T081000Z
+DTEND:20251219T105500Z
+SUMMARY;LANGUAGE=it:PED Approccio globale - SCHIAVI - 3SL23 - 16
+LOCATION;LANGUAGE=it:137 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : PED Approccio globale\nDocente : SCHIAVI\
+ nCorsi : 3SL23\nAula : 137\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : PED Approccio globale<br/>Docente : 
+ SCHIAVI<br/>Corsi : 3SL23<br/>Aula : 137<br/>Sede : Manno<br/>Studenti : 1
+ 6<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T112457Z
+UID:Attivita-14062-17-Albertoli_Massimo-Index-Education
+DTSTART:20251212T115500Z
+DTEND:20251212T143500Z
+SUMMARY;LANGUAGE=it:PED Approccio globale - SCHIAVI - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : PED Approccio globale\nDocente : SCHIAVI\
+ nCorsi : 3SL23\nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : PED Approccio globale<br/>Docente : 
+ SCHIAVI<br/>Corsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Studenti : 1
+ 6<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260303T150815Z
+UID:Attivita-14063-32-Albertoli_Massimo-Index-Education
+DTSTART:20260325T115500Z
+DTEND:20260325T143500Z
+SUMMARY;LANGUAGE=it:Inglese scientifico - VAN DRIEL - 3SL23 - 16
+LOCATION;LANGUAGE=it:128 sim\, 136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Inglese scientifico\nDocente : VAN DRIEL\
+ nCorsi : 3SL23\nAule : 128 sim\, 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Inglese scientifico<br/>Docente : VA
+ N DRIEL<br/>Corsi : 3SL23<br/>Aule : 128 sim\, 136<br/>Sede : Manno<br/>St
+ udenti : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14064-21-Albertoli_Massimo-Index-Education
+DTSTART:20260108T072000Z
+DTEND:20260108T143500Z
+SUMMARY;LANGUAGE=it:Atelier - BIAVA\, MERLINI - 3SL23 - 16
+LOCATION;LANGUAGE=it:128 sim - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Atelier\nDocenti : BIAVA\, MERLINI\nCorsi
+  : 3SL23\nAula : 128 sim\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Atelier<br/>Docenti : BIAVA\, MERLIN
+ I<br/>Corsi : 3SL23<br/>Aula : 128 sim<br/>Sede : Manno<br/>Studenti : 16<
+ br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T112457Z
+UID:Attivita-14065-22-Albertoli_Massimo-Index-Education
+DTSTART:20260112T072000Z
+DTEND:20260112T143500Z
+SUMMARY;LANGUAGE=it:PED Atelier - BIAVA\, FLURY - 3SL23 - 16
+LOCATION;LANGUAGE=it:128 sim - Manno
+DESCRIPTION;LANGUAGE=it:Materia : PED Atelier\nDocenti : BIAVA\, FLURY\nCor
+ si : 3SL23\nAula : 128 sim\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : PED Atelier<br/>Docenti : BIAVA\, FL
+ URY<br/>Corsi : 3SL23<br/>Aula : 128 sim<br/>Sede : Manno<br/>Studenti : 1
+ 6<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T112457Z
+UID:Attivita-14066-31-Albertoli_Massimo-Index-Education
+DTSTART:20260320T072000Z
+DTEND:20260320T143500Z
+SUMMARY;LANGUAGE=it:PED Atelier - BIAVA\, DOMENICONI - 3SL23 - 16
+LOCATION;LANGUAGE=it:128 sim - Manno
+DESCRIPTION;LANGUAGE=it:Materia : PED Atelier\nDocenti : BIAVA\, DOMENICONI
+ \nCorsi : 3SL23\nAula : 128 sim\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : PED Atelier<br/>Docenti : BIAVA\, DO
+ MENICONI<br/>Corsi : 3SL23<br/>Aula : 128 sim<br/>Sede : Manno<br/>Student
+ i : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114415Z
+UID:Attivita-14067-21-Albertoli_Massimo-Index-Education
+DTSTART:20260109T115500Z
+DTEND:20260109T143500Z
+SUMMARY;LANGUAGE=it:Valutazione formativa - BIAVA - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Valutazione formativa\nDocente : BIAVA\nC
+ orsi : 3SL23\nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Valutazione formativa<br/>Docente : 
+ BIAVA<br/>Corsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Studenti : 16<
+ br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14068-22-Albertoli_Massimo-Index-Education
+DTSTART:20260115T072000Z
+DTEND:20260115T143500Z
+SUMMARY;LANGUAGE=it:Atelier - BIAVA\, SOMMARUGA - 3SL23 - 16
+LOCATION;LANGUAGE=it:128 sim - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Atelier\nDocenti : BIAVA\, SOMMARUGA\nCor
+ si : 3SL23\nAula : 128 sim\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Atelier<br/>Docenti : BIAVA\, SOMMAR
+ UGA<br/>Corsi : 3SL23<br/>Aula : 128 sim<br/>Sede : Manno<br/>Studenti : 1
+ 6<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T112457Z
+UID:Attivita-14071-35-Albertoli_Massimo-Index-Education
+DTSTART:20260417T105500Z
+DTEND:20260417T133500Z
+SUMMARY;LANGUAGE=it:Gruppi di discussione - BASSANINI - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Gruppi di discussione\nDocente : BASSANIN
+ I\nCorsi : 3SL23\nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Gruppi di discussione<br/>Docente : 
+ BASSANINI<br/>Corsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Studenti :
+  16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T112457Z
+UID:Attivita-14072-32-Albertoli_Massimo-Index-Education
+DTSTART:20260326T115500Z
+DTEND:20260326T143500Z
+SUMMARY;LANGUAGE=it:Etica - CICALE - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Etica\nDocente : CICALE\nCorsi : 3SL23\nA
+ ula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Etica<br/>Docente : CICALE<br/>Corsi
+  : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Studenti : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T112457Z
+UID:Attivita-14073-31-Albertoli_Massimo-Index-Education
+DTSTART:20260317T081000Z
+DTEND:20260317T105500Z
+SUMMARY;LANGUAGE=it:Etica - CICALE - 3SL23 - 16
+LOCATION;LANGUAGE=it:137 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Etica\nDocente : CICALE\nCorsi : 3SL23\nA
+ ula : 137\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Etica<br/>Docente : CICALE<br/>Corsi
+  : 3SL23<br/>Aula : 137<br/>Sede : Manno<br/>Studenti : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14077-31-Albertoli_Massimo-Index-Education
+DTSTART:20260318T115500Z
+DTEND:20260318T143500Z
+SUMMARY;LANGUAGE=it:Inglese scientifico - VAN DRIEL - 3SL23 - 16
+LOCATION;LANGUAGE=it:128 sim\, 137 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Inglese scientifico\nDocente : VAN DRIEL\
+ nCorsi : 3SL23\nAule : 128 sim\, 137\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Inglese scientifico<br/>Docente : VA
+ N DRIEL<br/>Corsi : 3SL23<br/>Aule : 128 sim\, 137<br/>Sede : Manno<br/>St
+ udenti : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260317T111922Z
+UID:Attivita-14078-31-Albertoli_Massimo-Index-Education
+DTSTART:20260318T081000Z
+DTEND:20260318T105500Z
+SUMMARY;LANGUAGE=it:Collab. interdisciplinare - 3SL23 - 16
+LOCATION;LANGUAGE=it:137 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Collab. interdisciplinare\nCorsi : 3SL23\
+ nAula : 137\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Collab. interdisciplinare<br/>Corsi 
+ : 3SL23<br/>Aula : 137<br/>Sede : Manno<br/>Studenti : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14079-31-Albertoli_Massimo-Index-Education
+DTSTART:20260317T115500Z
+DTEND:20260317T143500Z
+SUMMARY;LANGUAGE=it:Teoria sintesi - CITRINITI - 3SL23 - 16
+LOCATION;LANGUAGE=it:137 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Teoria sintesi\nDocente : CITRINITI\nCors
+ i : 3SL23\nAula : 137\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Teoria sintesi<br/>Docente : CITRINI
+ TI<br/>Corsi : 3SL23<br/>Aula : 137<br/>Sede : Manno<br/>Studenti : 16<br/
+ >
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14080-32-Albertoli_Massimo-Index-Education
+DTSTART:20260323T072000Z
+DTEND:20260323T143500Z
+SUMMARY;LANGUAGE=it:Interdisciplinarietà - ZIELLA - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Interdisciplinarietà\nDocente : ZIELLA\nC
+ orsi : 3SL23\nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Interdisciplinarietà<br/>Docente : Z
+ IELLA<br/>Corsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Studenti : 16<
+ br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14083-32-Albertoli_Massimo-Index-Education
+DTSTART:20260325T072000Z
+DTEND:20260325T105500Z
+SUMMARY;LANGUAGE=it:Analisi di situazione - FLURY - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Analisi di situazione\nDocente : FLURY\nC
+ orsi : 3SL23\nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Analisi di situazione<br/>Docente : 
+ FLURY<br/>Corsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Studenti : 16<
+ br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14091-33-Albertoli_Massimo-Index-Education
+DTSTART:20260402T062000Z
+DTEND:20260402T123500Z
+SUMMARY;LANGUAGE=it:Gestione materiale - BIGI - 3SL23 - 16
+LOCATION;LANGUAGE=it:221 - Debriefing - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Gestione materiale\nDocente : BIGI\nCorsi
+  : 3SL23\nAula : 221 - Debriefing\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Gestione materiale<br/>Docente : BIG
+ I<br/>Corsi : 3SL23<br/>Aula : 221 - Debriefing<br/>Sede : Manno<br/>Stude
+ nti : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14092-33-Albertoli_Massimo-Index-Education
+DTSTART:20260330T062000Z
+DTEND:20260330T095500Z
+SUMMARY;LANGUAGE=it:Analisi di situazione - FLURY - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Analisi di situazione\nDocente : FLURY\nC
+ orsi : 3SL23\nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Analisi di situazione<br/>Docente : 
+ FLURY<br/>Corsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Studenti : 16<
+ br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T112457Z
+UID:Attivita-14093-18-Albertoli_Massimo-Index-Education
+DTSTART:20251219T115500Z
+DTEND:20251219T143500Z
+SUMMARY;LANGUAGE=it:Analisi di situazione - BIAVA - 3SL23 - 16
+LOCATION;LANGUAGE=it:137 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Analisi di situazione\nDocente : BIAVA\nC
+ orsi : 3SL23\nAula : 137\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Analisi di situazione<br/>Docente : 
+ BIAVA<br/>Corsi : 3SL23<br/>Aula : 137<br/>Sede : Manno<br/>Studenti : 16<
+ br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14097-36-Albertoli_Massimo-Index-Education
+DTSTART:20260424T071000Z
+DTEND:20260424T133500Z
+SUMMARY;LANGUAGE=it:Cura condizione fisica - BIANCHI - 3SL23 - 16
+DESCRIPTION;LANGUAGE=it:Materia : Cura condizione fisica\nDocente : BIANCHI
+ \nCorsi : 3SL23\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Cura condizione fisica<br/>Docente :
+  BIANCHI<br/>Corsi : 3SL23<br/>Studenti : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14103-36-Albertoli_Massimo-Index-Education
+DTSTART:20260420T062000Z
+DTEND:20260420T095500Z
+SUMMARY;LANGUAGE=it:Analisi di situazione - BIAVA - 3SL23 - 16
+LOCATION;LANGUAGE=it:137 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Analisi di situazione\nDocente : BIAVA\nC
+ orsi : 3SL23\nAula : 137\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Analisi di situazione<br/>Docente : 
+ BIAVA<br/>Corsi : 3SL23<br/>Aula : 137<br/>Sede : Manno<br/>Studenti : 16<
+ br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14110-36-Albertoli_Massimo-Index-Education
+DTSTART:20260421T071000Z
+DTEND:20260421T133500Z
+SUMMARY;LANGUAGE=it:Atelier - BIAVA\, FLURY - 3SL23 - 16
+LOCATION;LANGUAGE=it:128 sim - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Atelier\nDocenti : BIAVA\, FLURY\nCorsi :
+  3SL23\nAula : 128 sim\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Atelier<br/>Docenti : BIAVA\, FLURY<
+ br/>Corsi : 3SL23<br/>Aula : 128 sim<br/>Sede : Manno<br/>Studenti : 16<br
+ />
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14111-36-Albertoli_Massimo-Index-Education
+DTSTART:20260423T062000Z
+DTEND:20260423T133500Z
+SUMMARY;LANGUAGE=it:Atelier - BIAVA\, MERLINI - 3SL23 - 16
+LOCATION;LANGUAGE=it:128 sim - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Atelier\nDocenti : BIAVA\, MERLINI\nCorsi
+  : 3SL23\nAula : 128 sim\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Atelier<br/>Docenti : BIAVA\, MERLIN
+ I<br/>Corsi : 3SL23<br/>Aula : 128 sim<br/>Sede : Manno<br/>Studenti : 16<
+ br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14112-36-Albertoli_Massimo-Index-Education
+DTSTART:20260422T071000Z
+DTEND:20260422T133500Z
+SUMMARY;LANGUAGE=it:VNI Refresh - FRATTINI - 3SL23 - 16
+LOCATION;LANGUAGE=it:137 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : VNI Refresh\nDocente : FRATTINI\nCorsi : 
+ 3SL23\nAula : 137\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : VNI Refresh<br/>Docente : FRATTINI<b
+ r/>Corsi : 3SL23<br/>Aula : 137<br/>Sede : Manno<br/>Studenti : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14142-36-Albertoli_Massimo-Index-Education
+DTSTART:20260420T105500Z
+DTEND:20260420T133500Z
+SUMMARY;LANGUAGE=it:Etica - CICALE - 3SL23 - 16
+LOCATION;LANGUAGE=it:137 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Etica\nDocente : CICALE\nCorsi : 3SL23\nA
+ ula : 137\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Etica<br/>Docente : CICALE<br/>Corsi
+  : 3SL23<br/>Aula : 137<br/>Sede : Manno<br/>Studenti : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T112457Z
+UID:Attivita-14143-33-Albertoli_Massimo-Index-Education
+DTSTART:20260330T105500Z
+DTEND:20260330T133500Z
+SUMMARY;LANGUAGE=it:Gruppi di discussione - BASSANINI - 3SL23 - 16
+LOCATION;LANGUAGE=it:136 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Gruppi di discussione\nDocente : BASSANIN
+ I\nCorsi : 3SL23\nAula : 136\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Gruppi di discussione<br/>Docente : 
+ BASSANINI<br/>Corsi : 3SL23<br/>Aula : 136<br/>Sede : Manno<br/>Studenti :
+  16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T114202Z
+UID:Attivita-14298-31-Albertoli_Massimo-Index-Education
+DTSTART:20260316T072000Z
+DTEND:20260316T105500Z
+SUMMARY;LANGUAGE=it:Progetto professionale - BIAVA - 3SL23 - 16
+LOCATION;LANGUAGE=it:138 - Manno
+DESCRIPTION;LANGUAGE=it:Materia : Progetto professionale\nDocente : BIAVA\n
+ Corsi : 3SL23\nAula : 138\nSede : Manno\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Progetto professionale<br/>Docente :
+  BIAVA<br/>Corsi : 3SL23<br/>Aula : 138<br/>Sede : Manno<br/>Studenti : 16
+ <br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+LAST-MODIFIED:20260213T112457Z
+UID:Attivita-18064-22-Albertoli_Massimo-Index-Education
+DTSTART:20260116T072000Z
+DTEND:20260116T143500Z
+SUMMARY;LANGUAGE=it:Cura condizione fisica - BIANCHI - 3SL23 - 16
+DESCRIPTION;LANGUAGE=it:Materia : Cura condizione fisica\nDocente : BIANCHI
+ \nCorsi : 3SL23\nStudenti : 16\n
+X-ALT-DESC;FMTTYPE=text/html:Materia : Cura condizione fisica<br/>Docente :
+  BIANCHI<br/>Corsi : 3SL23<br/>Studenti : 16<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+UID:Festivo-2638-Albertoli_Massimo-Index-Education
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250901
+SUMMARY;LANGUAGE=it:Vacanze
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+UID:Festivo-2639-Albertoli_Massimo-Index-Education
+DTSTART;VALUE=DATE:20250906
+DTEND;VALUE=DATE:20250908
+SUMMARY;LANGUAGE=it:Vacanze
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+UID:Festivo-2640-Albertoli_Massimo-Index-Education
+DTSTART;VALUE=DATE:20250913
+DTEND;VALUE=DATE:20250915
+SUMMARY;LANGUAGE=it:Vacanze
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+UID:Festivo-2641-Albertoli_Massimo-Index-Education
+DTSTART;VALUE=DATE:20250920
+DTEND;VALUE=DATE:20250922
+SUMMARY;LANGUAGE=it:Vacanze
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+UID:Festivo-2642-Albertoli_Massimo-Index-Education
+DTSTART;VALUE=DATE:20250927
+DTEND;VALUE=DATE:20250929
+SUMMARY;LANGUAGE=it:Vacanze
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+UID:Festivo-2643-Albertoli_Massimo-Index-Education
+DTSTART;VALUE=DATE:20251004
+DTEND;VALUE=DATE:20251006
+SUMMARY;LANGUAGE=it:Vacanze
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+UID:Festivo-2644-Albertoli_Massimo-Index-Education
+DTSTART;VALUE=DATE:20251011
+DTEND;VALUE=DATE:20251013
+SUMMARY;LANGUAGE=it:Vacanze
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+UID:Festivo-2645-Albertoli_Massimo-Index-Education
+DTSTART;VALUE=DATE:20251018
+DTEND;VALUE=DATE:20251020
+SUMMARY;LANGUAGE=it:Vacanze
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+UID:Festivo-2646-Albertoli_Massimo-Index-Education
+DTSTART;VALUE=DATE:20251025
+DTEND;VALUE=DATE:20251027
+SUMMARY;LANGUAGE=it:Vacanze
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+UID:Festivo-2647-Albertoli_Massimo-Index-Education
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251110
+SUMMARY;LANGUAGE=it:Vacanze
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+UID:Festivo-2648-Albertoli_Massimo-Index-Education
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251117
+SUMMARY;LANGUAGE=it:Vacanze
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+UID:Festivo-2649-Albertoli_Massimo-Index-Education
+DTSTART;VALUE=DATE:20251122
+DTEND;VALUE=DATE:20251124
+SUMMARY;LANGUAGE=it:Vacanze
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+UID:Festivo-2650-Albertoli_Massimo-Index-Education
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251201
+SUMMARY;LANGUAGE=it:Vacanze
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+UID:Festivo-2651-Albertoli_Massimo-Index-Education
+DTSTART;VALUE=DATE:20251206
+DTEND;VALUE=DATE:20251209
+SUMMARY;LANGUAGE=it:Vacanze
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+UID:Festivo-2652-Albertoli_Massimo-Index-Education
+DTSTART;VALUE=DATE:20251213
+DTEND;VALUE=DATE:20251215
+SUMMARY;LANGUAGE=it:Vacanze
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+UID:Festivo-2653-Albertoli_Massimo-Index-Education
+DTSTART;VALUE=DATE:20251220
+DTEND;VALUE=DATE:20251222
+SUMMARY;LANGUAGE=it:Vacanze
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+UID:Festivo-2654-Albertoli_Massimo-Index-Education
+DTSTART;VALUE=DATE:20251224
+DTEND;VALUE=DATE:20260107
+SUMMARY;LANGUAGE=it:Vacanze
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+UID:Festivo-2655-Albertoli_Massimo-Index-Education
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260112
+SUMMARY;LANGUAGE=it:Vacanze
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+UID:Festivo-2656-Albertoli_Massimo-Index-Education
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260119
+SUMMARY;LANGUAGE=it:Vacanze
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+UID:Festivo-2657-Albertoli_Massimo-Index-Education
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260126
+SUMMARY;LANGUAGE=it:Vacanze
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+UID:Festivo-2658-Albertoli_Massimo-Index-Education
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260202
+SUMMARY;LANGUAGE=it:Vacanze
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+UID:Festivo-2659-Albertoli_Massimo-Index-Education
+DTSTART;VALUE=DATE:20260207
+DTEND;VALUE=DATE:20260209
+SUMMARY;LANGUAGE=it:Vacanze
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+UID:Festivo-2660-Albertoli_Massimo-Index-Education
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260223
+SUMMARY;LANGUAGE=it:Vacanze
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+UID:Festivo-2661-Albertoli_Massimo-Index-Education
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+SUMMARY;LANGUAGE=it:Festivo
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+UID:Festivo-2662-Albertoli_Massimo-Index-Education
+DTSTART;VALUE=DATE:20260307
+DTEND;VALUE=DATE:20260309
+SUMMARY;LANGUAGE=it:Vacanze
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+UID:Festivo-2663-Albertoli_Massimo-Index-Education
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260316
+SUMMARY;LANGUAGE=it:Vacanze
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+UID:Festivo-2664-Albertoli_Massimo-Index-Education
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY;LANGUAGE=it:Festivo
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+UID:Festivo-2665-Albertoli_Massimo-Index-Education
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260323
+SUMMARY;LANGUAGE=it:Vacanze
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+UID:Festivo-2666-Albertoli_Massimo-Index-Education
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260330
+SUMMARY;LANGUAGE=it:Vacanze
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+UID:Festivo-2667-Albertoli_Massimo-Index-Education
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260413
+SUMMARY;LANGUAGE=it:Vacanze
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+UID:Festivo-2668-Albertoli_Massimo-Index-Education
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260420
+SUMMARY;LANGUAGE=it:Vacanze
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20260317T165449Z
+UID:Festivo-2669-Albertoli_Massimo-Index-Education
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY;LANGUAGE=it:Vacanze
+END:VEVENT
+END:VCALENDAR
