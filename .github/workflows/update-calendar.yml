@@ -1,52 +1,46 @@
-import os
-import requests
-import hashlib
+name: Update ICS Calendar
 
-url = os.environ.get("ICS_URL")
-token = os.environ.get("TELEGRAM_TOKEN")
-chat_id = os.environ.get("TELEGRAM_CHAT_ID")
+concurrency:
+  group: update-calendar
+  cancel-in-progress: true
 
-if not url:
-    raise ValueError("ICS_URL non trovato nelle variabili ambiente.")
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/15 * * * *"
 
-headers = {
-    "User-Agent": "Mozilla/5.0"
-}
+permissions:
+  contents: write
 
-response = requests.get(url, headers=headers, timeout=30)
-response.raise_for_status()
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
 
-content_type = response.headers.get("Content-Type", "")
-content = response.content
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-if not content:
-    raise ValueError("File ICS vuoto.")
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
 
-new_hash = hashlib.md5(content).hexdigest()
-old_hash = None
+      - name: Install requests
+        run: pip install requests
 
-if os.path.exists("calendar.ics"):
-    with open("calendar.ics", "rb") as f:
-        old_hash = hashlib.md5(f.read()).hexdigest()
+      - name: Fetch ICS file
+        env:
+          ICS_URL: ${{ secrets.ICS_URL }}
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python fetch_ics.py
 
-if old_hash and new_hash != old_hash:
-    if token and chat_id:
-        message = "⚠️ Il calendario è stato aggiornato!"
-        telegram_response = requests.get(
-            f"https://api.telegram.org/bot{token}/sendMessage",
-            params={"chat_id": chat_id, "text": message},
-            timeout=30
-        )
-        telegram_response.raise_for_status()
-        print("Notifica Telegram inviata.")
-    else:
-        print("Calendario cambiato, ma TELEGRAM_TOKEN o TELEGRAM_CHAT_ID mancanti.")
-
-with open("calendar.ics", "wb") as f:
-    f.write(content)
-
-print("calendar.ics scaricato correttamente.")
-print(f"Content-Type ricevuto: {content_type}")
-print(f"Dimensione file: {len(content)} bytes")
-print(f"Nuovo hash: {new_hash}")
-print(f"Vecchio hash: {old_hash}")
+      - name: Commit updated calendar
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add calendar.ics
+          git diff --cached --quiet && exit 0
+          git commit -m "Update calendar.ics"
+          git pull --rebase origin main
+          git push origin main
